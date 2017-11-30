@@ -1,0 +1,2 @@
+Type=2
+Database= C:\\Users\\Rodrigo\\Desktop\\Sistema - Clinica Jonas Gabriela\\banco.db3
